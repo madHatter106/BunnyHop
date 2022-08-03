@@ -1,1 +1,1 @@
-Sitemap: https://madhatter106.github.io/FakeNewsGNN/sitemap.xml
+Sitemap: https://madhatter106.github.io/BunnyHop/sitemap.xml
